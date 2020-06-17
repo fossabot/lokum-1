@@ -1,4 +1,6 @@
 # Lokum
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffdiblen%2Flokum.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffdiblen%2Flokum?ref=badge_shield)
+
 
 This repository includes scripts to deploy a cluster with GlusterFS, Docker, Spark and JupyterHub services on bare-metal. Currently, it only supports Opennebula platform.
 
@@ -88,3 +90,7 @@ ssh -i ./deployment/cluster0/id_rsa_lokum_ubuntu.key ubuntu@SERVER_IP
 - Setup a firewall
 - Add an example for custom software deployment
 - Add links and credits
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffdiblen%2Flokum.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffdiblen%2Flokum?ref=badge_large)
